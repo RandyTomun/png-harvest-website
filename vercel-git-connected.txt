@@ -1,0 +1,3 @@
+PNG Harvest website
+Vercel Git deployment connection verified on 8 August 2026.
+This file can remain in the repository as a deployment marker.
